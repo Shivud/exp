@@ -1,0 +1,43 @@
+For Task1------
+Go to GitHub account click on new button create new repository
+Create folder write java programme in it.
+Goto terminal initialise the empty repo in the folder location. Using git init command
+Now configure using git config --global user.name"--",git config --global user.email"--",
+Now add the files using git add . Command
+Then commit the files using the git commit -m "message" command
+Now add remote repo using git add remote origin URL 
+push the file using git push -u origin master
+
+Goto Jenkins create new free style project 
+Then select git option, add the git rep url add credentials
+Click on build steps then execute shell write java programme execution commands
+Click apply and save using build now option run the jerkin file
+
+For Task2-----
+Go to GitHub account click on new button create new repository
+Create folder write java programme in it.
+Goto terminal initialise the empty repo in the folder location. Using git init command
+Now configure using git config --global user.name"--",git config --global user.email"--",
+Now add the files using git add . Command
+Then commit the files using the git commit -m "message" command
+Now add remote repo using git add remote origin URL 
+push the file using git push -u origin master
+Create new branch using git branch branchname command
+Checkout to the branch using git checkout branchname
+Add file using touch filename.extension
+Now add the files using git add . Command
+Then commit the files using the git commit -m "message" command
+Now add remote repo using git add remote origin URL
+push the file using git push -u origin branch name 
+Switch to master branch
+Now merge using git merge branchname
+push the file using git push -u origin branch name
+
+Goto Jenkins create new free style project 
+Then select git option, add the git rep url add credentials
+Click on build steps then execute shell write java programme execution commands
+Click apply and save using build now option run the jerkin file
+
+
+
+
